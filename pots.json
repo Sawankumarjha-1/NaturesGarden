@@ -1,0 +1,72 @@
+[
+  {
+    "name": "Terracotta Pot",
+    "category": "Pots",
+    "price": 9.99,
+    "imageLink": "",
+    "description": "Terracotta pots are classic clay pots that are porous and allow air and water circulation around the plant roots. They are known for their natural and rustic appearance. Terracotta pots come in various sizes and shapes, providing a traditional and timeless look to your garden."
+  },
+  {
+    "name": "Ceramic Pot",
+    "category": "Pots",
+    "price": 19.99,
+    "imageLink": "",
+    "description": "Ceramic pots are made from clay that is fired at high temperatures, resulting in a durable and decorative container. They come in a wide range of colors, designs, and textures, adding an aesthetic touch to your plants. Ceramic pots are available in different sizes and shapes, suitable for indoor and outdoor gardening."
+  },
+  {
+    "name": "Plastic Pot",
+    "category": "Pots",
+    "price": 6.99,
+    "imageLink": "",
+    "description": "Plastic pots are lightweight, affordable, and easy to clean, making them a popular choice for gardening. They come in various colors and sizes and are available in different styles, such as hanging pots or nursery pots. Plastic pots are versatile and suitable for both indoor and outdoor plantings."
+  },
+  {
+    "name": "Metal Pot",
+    "category": "Pots",
+    "price": 24.99,
+    "imageLink": "",
+    "description": "Metal pots, such as those made of stainless steel or galvanized iron, provide a sleek and modern look to your garden. They are durable, weather-resistant, and suitable for both indoor and outdoor use. Metal pots come in different sizes and shapes, adding an elegant touch to your plants."
+  },
+  {
+    "name": "Hanging Basket",
+    "category": "Pots",
+    "price": 12.99,
+    "imageLink": "",
+    "description": "Hanging baskets are ideal for adding vertical interest and maximizing space in your garden or balcony. They come in various materials, such as plastic, metal, or woven baskets, and can accommodate a variety of trailing or cascading plants. Hanging baskets are versatile and bring beauty at eye level."
+  },
+  {
+    "name": "Coco Coir Pot",
+    "category": "Pots",
+    "price": 8.99,
+    "imageLink": "",
+    "description": "Coco coir pots are eco-friendly alternatives to traditional pots. They are made from the fibrous husk of coconut shells and offer excellent drainage and aeration for plant roots. Coco coir pots are biodegradable and can be planted directly into the ground, making them suitable for starting seeds or growing seedlings."
+  },
+  {
+    "name": "Self-Watering Pot",
+    "category": "Pots",
+    "price": 14.99,
+    "imageLink": "",
+    "description": "Self-watering pots feature a reservoir at the bottom that holds water, allowing plants to draw moisture as needed. They come with a wicking system or a water level indicator, making it easier to maintain optimal moisture levels for your plants."
+  },
+  {
+    "name": "Concrete Pot",
+    "category": "Pots",
+    "price": 17.99,
+    "imageLink": "",
+    "description": "Concrete pots are durable and provide a modern and industrial look to your garden or outdoor space. They come in various shapes and sizes and can withstand harsh weather conditions. Concrete pots are ideal for showcasing your plants and adding a contemporary touch to your landscape."
+  },
+  {
+    "name": "Terra Cotta Hanging Planter",
+    "category": "Pots",
+    "price": 11.99,
+    "imageLink": "",
+    "description": "Terra cotta hanging planters are perfect for suspending your plants and adding visual interest to your garden or porch. They are made of terracotta clay and come with built-in hangers for easy installation. Terra cotta hanging planters provide a charming and rustic touch to your outdoor space."
+  },
+  {
+    "name": "Stackable Planter",
+    "category": "Pots",
+    "price": 21.99,
+    "imageLink": "",
+    "description": "Stackable planters allow you to create vertical gardens and save space. They are designed with multiple tiers or compartments, allowing you to grow multiple plants in a compact arrangement. Stackable planters come in various materials, such as plastic or metal, and offer a creative way to display your plants."
+  }
+]
